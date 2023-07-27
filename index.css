@@ -1,0 +1,66 @@
+#Left{
+    width:auto;
+    background-color:beige;
+    margin: auto;
+   margin-right: 0px;
+    margin-top: 0px;
+    margin-left:300px;
+
+}
+#hed{
+    /* width: 500px; */
+    /* background-color: aliceblue; */
+    margin: auto;
+    text-align: center;
+    
+
+}
+.main{
+    margin-top: 10px;
+    margin-bottom: 0px;
+    background-color:silver;
+    
+    
+}
+#main2{
+    
+    background-color:rebeccapurple;
+    
+}
+#main1{
+    margin-top: 0px;
+    /* background-color:royalblue; */
+    
+}
+.image{
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: auto;
+}
+
+.heading{
+    text-decoration: underline;
+    font-weight: bold;
+}
+.during-project{
+    font-size: large; 
+    font-weight: bold;
+}
+.project-name{
+    color: red;
+    font-size: x-large;
+    font-weight: bold;
+}
+.project-link{
+    color: blue;
+    text-decoration: underline;
+}
+.project-heading{
+    text-align: center;
+    font-size: xx-large;
+    text-decoration: underline;
+    font-weight: bold;
+    margin-top: 2px;
+    margin-bottom: 10px;
+}
